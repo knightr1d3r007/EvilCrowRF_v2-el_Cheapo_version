@@ -95,7 +95,8 @@ Any MicroSdcard (no bigger that 32 GB) should work.
 Putting things together the device will look like this one:
 
 
-![Cheapo-front](https://github.com/user-attachments/assets/c83c2fd1-5090-4b1f-92e2-ed57f02b3df9) ![Cheapo-back](https://github.com/user-attachments/assets/bfd78192-e914-464c-b79c-d5313d308f19)
+![Cheapo-front-1](https://github.com/user-attachments/assets/d541bb76-af29-45c7-80c0-423b46bc68c6) ![Cheapo-1](https://github.com/user-attachments/assets/aa6f9d0d-b4c9-45b7-adb8-74291d0009ab)
+
 
 
 
