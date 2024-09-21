@@ -15,7 +15,19 @@
 
 
 
+![ECRF-jeito-de-Microbio](https://github.com/user-attachments/assets/65c0696b-b137-4916-8f5d-ffbf1340451d)
+
+
+
+![ECRF-jeito-de-Microbio_back](https://github.com/user-attachments/assets/f59e6205-acda-447a-8af6-b16c59ecfd91)
+
+
+
+
+
+
 # Requirements:
+
 
 
 1.- TI CC1101-v2 module which is currently the most available version everywhere (we need 2 modules).
@@ -29,11 +41,14 @@ https://www.aliexpress.us/item/3256806241609769.html
 
 
 
+
 2.- ESP32 DevKit_v1 This board has 30-Pins, and the chip ESP-WROOM-32 footprint. 
 
 See here:
 
 https://www.aliexpress.us/item/3256801462536246.html
+
+
 
 
 
@@ -60,13 +75,19 @@ For reference see picture below.
 
 
 
+
 4.- The PCB for this easy to build device DIY_EvilCrowRF_v2-el_Cheapo_version.
 
 Download the ZIP file from the release section of this page and sent it to print to your favorite PCB manufacturer. 
 
 
 
+
 5.- Iron, solder, flux, headers, etc.
+
+
+
+
 
 
 
