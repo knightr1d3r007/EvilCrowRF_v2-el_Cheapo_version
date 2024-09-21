@@ -47,7 +47,9 @@ https://www.aliexpress.us/item/3256805794981947.html
 
 However, there is a gotcha. This module will be soldered in the back of the PCB.
 
-The order of the pins has to be from left to right: CS, SCK, MOSI, MISO, VCC, GND. 
+The order of the pins has to be from left to right:
+
+CS, SCK, MOSI, MISO, VCC, GND. 
 
 
 In the case of this MicroSDcard module, the headers need to be desoldered. 
