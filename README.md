@@ -66,7 +66,7 @@ CS, SCK, MOSI, MISO, VCC, GND.
 
 In the case of this MicroSDcard module, the headers need to be desoldered. 
 
-New headers need to be soldered from the oposite side.
+New headers need to be soldered from the oposite side of the module.
 
 For reference see picture below.
 
