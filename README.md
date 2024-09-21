@@ -84,6 +84,58 @@ Download the ZIP file from the release section of this page and sent it to print
 
 
 
+6.- A MicroSDcard
+
+Any MicroSdcard (no bigger that 32 GB) should work.
+
+
+
+# The result:
+
+Putting things together the device will look like this one:
+
+
+![Cheapo-front](https://github.com/user-attachments/assets/c83c2fd1-5090-4b1f-92e2-ed57f02b3df9) ![Cheapo-back](https://github.com/user-attachments/assets/bfd78192-e914-464c-b79c-d5313d308f19)
+
+
+
+
+Now that the device is ready, get the firmware and go outside to play. There are few option to use this hardware:
+
+
+
+
+1.- The original project page and follow their directions.
+
+https://github.com/joelsernamoreno/EvilCrowRF-V2
+
+
+2.- Another option is the alternate firmware from h-RAT.
+
+https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero
+
+
+3.- If you are masochist there is one powerful but complex option:
+
+https://github.com/rfquack/RFQuack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
