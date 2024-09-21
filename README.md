@@ -80,7 +80,15 @@ Download the ZIP file from the release section of this page and sent it to print
 
 
 
-5.- Iron, solder, flux, headers, etc.
+5.- 2x tactile push buttons (for instance 6x6x6), 2x 10k resistors, Iron, solder, flux, headers, etc.
+
+
+
+
+
+
+
+
 
 
 
