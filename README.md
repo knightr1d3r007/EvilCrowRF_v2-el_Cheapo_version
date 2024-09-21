@@ -1,7 +1,7 @@
 
 # DIY_EvilCrowRF_v2-el_Cheapo_version PCB
 
-"The EvilCrowRF_v2" is a radiofrequency hacking device for pentesting and Red Team operations, this device operates in the following radiofrequency bands:
+"The EvilCrowRF_v2" is a radio frequency device for pentesting and Red Team operations, this device operates in the following radiofrequency bands:
 
     300Mhz-348Mhz
     387Mhz-464Mhz
