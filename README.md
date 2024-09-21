@@ -95,6 +95,9 @@ Any MicroSdcard (no bigger that 32 GB) should work.
 Putting things together the device will look like this one:
 
 
+Btw, the photo quality on these pics don't really show the beauty of the final build. But, whatever.
+
+
 ![Cheapo-front-1](https://github.com/user-attachments/assets/d541bb76-af29-45c7-80c0-423b46bc68c6) ![Cheapo-1](https://github.com/user-attachments/assets/aa6f9d0d-b4c9-45b7-adb8-74291d0009ab)
 
 
