@@ -80,13 +80,24 @@ Download the ZIP file from the release section of this page and sent it to print
 
 
 
-5.- 2x tactile push buttons (for instance 6x6x6), 2x 10k resistors, Iron, solder, flux, headers, etc.
+5.- 2x tactile push buttons (for instance 6x6x6), 2x 10k resistors, a switch, Iron, solder, flux, headers, etc.
 
 
 
 6.- A MicroSDcard
 
 Any MicroSdcard (no bigger that 32 GB) should work.
+
+
+
+7.- There is the need for a battery to provide 5 volts to "el-Cheapo" through the entry labeled "5V-IN". 
+
+An alternative option could be sacrifying an USB cable and solder the Positive and Ground ends to the board and plug it to some small powerbank.
+
+
+Note: 
+
+Powering the device through the ESP32 USB port will not provide power to the CC1101 modules or the SDcard. Therefore, el Cheapo will not work.
 
 
 
@@ -104,7 +115,12 @@ Btw, the photo quality on these pics don't really show the beauty of the final b
 
 
 
-Now that the device is ready, get the firmware and go outside to play. There are few option to use this hardware:
+Now that the device is ready, get the firmware and go outside to play.
+
+Please use this device responsibly. 
+
+
+There are few option to use this hardware:
 
 
 
@@ -122,6 +138,20 @@ https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero
 3.- If you are masochist there is one powerful but complex option:
 
 https://github.com/rfquack/RFQuack
+
+
+
+
+
+# LICENSE
+
+
+Distributed under the MIT License. See LICENSE.txt for more information. The tool/device is for educational purpose only and the author does not condone any illegal use. Use as your own risk.
+
+
+
+
+
 
 
 
