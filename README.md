@@ -56,7 +56,7 @@ In the case of this MicroSDcard module, the headers need to be desoldered.
 
 New headers need to be soldered from the oposite side.
 
-see picture below.
+For reference see picture below.
 
 
 
