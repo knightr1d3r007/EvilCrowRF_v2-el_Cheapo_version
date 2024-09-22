@@ -120,7 +120,7 @@ Now that the device is ready, get the firmware and go outside to play.
 Please use this device responsibly. 
 
 
-There are few option to use this hardware:
+There are few firmware options to use this hardware:
 
 
 
