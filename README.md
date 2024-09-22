@@ -149,7 +149,7 @@ https://github.com/rfquack/RFQuack
 # LICENSE
 
 
-Distributed under the MIT License. See LICENSE.txt for more information. The tool/device is for educational purpose only and the author does not condone any illegal use. Use as your own risk.
+Distributed under the MIT License. See the MIT LICENSE file for more information. This tool/device is for educational purpose only and the author does not condone any illegal use. Use as your own risk.
 
 
 
