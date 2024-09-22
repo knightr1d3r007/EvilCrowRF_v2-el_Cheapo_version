@@ -126,7 +126,7 @@ Please use this device responsibly.
 
 
 
-1.- The original project page and follow their directions.
+1.- The original project, go to their page and follow the directions.
 
 https://github.com/joelsernamoreno/EvilCrowRF-V2
 
@@ -138,7 +138,13 @@ https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero
 
 
 
-3.- If you are masochist there is one complex option, but at the same time powerful and rewarding.
+3.- A special mention on DoobTheGoober's firmware
+
+https://github.com/CharlesTheGreat77/EvilCrowPyRF
+
+
+
+4.- If you are masochist there is one complex option, but at the same time powerful and rewarding.
 
 https://github.com/rfquack/RFQuack
 
