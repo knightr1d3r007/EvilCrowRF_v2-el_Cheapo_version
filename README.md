@@ -120,7 +120,8 @@ Now that the device is ready, get the firmware and go outside to play.
 Please use this device responsibly. 
 
 
-There are few firmware options to use this hardware:
+# There are several firmware options to use this hardware:
+
 
 
 
@@ -130,12 +131,14 @@ There are few firmware options to use this hardware:
 https://github.com/joelsernamoreno/EvilCrowRF-V2
 
 
+
 2.- Another option is the alternate firmware from h-RAT.
 
 https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero
 
 
-3.- If you are masochist there is one powerful but complex option:
+
+3.- If you are masochist there is one complex option, but at the same time powerful and rewarding.
 
 https://github.com/rfquack/RFQuack
 
